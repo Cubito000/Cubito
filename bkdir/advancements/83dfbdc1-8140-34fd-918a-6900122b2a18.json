@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-06-24 03:51:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-06-24 02:50:21 +0000"
@@ -255,6 +261,7 @@
     "criteria": {
       "cooked_porkchop": "2024-06-24 03:16:23 +0000",
       "apple": "2024-06-24 03:22:27 +0000",
+      "bread": "2024-06-24 03:51:53 +0000",
       "cooked_chicken": "2024-06-24 03:12:12 +0000"
     },
     "done": false
@@ -322,6 +329,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-06-24 02:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-06-24 03:52:08 +0000"
     },
     "done": true
   },
@@ -537,6 +550,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-06-24 02:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-06-24 03:52:08 +0000"
     },
     "done": true
   },
