@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "040f4c87-f771-3d98-aecc-297a4ba926da",
+    "name": "Cubito20",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
