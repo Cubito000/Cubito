@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-06-28 02:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-06-28 00:23:47 +0000"
@@ -305,6 +311,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-06-28 00:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
     },
     "done": true
   },
@@ -410,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-06-28 00:02:58 +0000"
@@ -419,6 +437,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-06-28 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
     },
     "done": true
   },
@@ -572,6 +596,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-06-28 02:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-06-28 01:28:08 +0000"
@@ -705,6 +741,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-28 00:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
     },
     "done": true
   },
@@ -924,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-06-28 00:04:11 +0000"
@@ -999,6 +1047,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-06-27 22:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-28 02:48:26 +0000"
     },
     "done": true
   },
@@ -1090,8 +1144,10 @@
       "minecraft:river": "2024-06-28 00:54:19 +0000",
       "minecraft:snowy_plains": "2024-06-27 22:52:06 +0000",
       "minecraft:snowy_taiga": "2024-06-27 22:48:47 +0000",
+      "minecraft:cold_ocean": "2024-06-28 02:50:38 +0000",
       "minecraft:forest": "2024-06-28 01:19:57 +0000",
       "minecraft:lush_caves": "2024-06-28 00:06:27 +0000",
+      "minecraft:deep_cold_ocean": "2024-06-28 02:49:57 +0000",
       "minecraft:frozen_ocean": "2024-06-27 23:30:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-06-28 00:54:24 +0000",
       "minecraft:snowy_beach": "2024-06-27 23:04:26 +0000",
