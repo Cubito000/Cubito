@@ -1,189 +1,974 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720122388502 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720129552239 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122391589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129555311 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122394661 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129558376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122397694 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129561441 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122400731 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129564496 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122403811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129567559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122406894 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129570615 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122409952 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129573670 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122412994 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129576710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122416039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129579759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122419093 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129582800 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122422191 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129585847 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122425252 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129588923 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122428354 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129591962 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122431429 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129595006 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122434555 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129598055 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122437603 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129601131 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122440656 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129604193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122443714 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129607272 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122446780 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129610355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122449840 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129613410 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122452914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129616497 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122455958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129619563 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122458990 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129622616 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122462055 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129625668 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122465103 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129628739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122468196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129631835 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122471246 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129634883 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122474346 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129637921 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122477410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129640983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122480440 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129644132 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122483487 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129647229 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122486547 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129650301 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122489588 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129653342 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122492643 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129656373 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122495742 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129659419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122498797 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129662507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720122501850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720129665560 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129668602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129671647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129674694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129677750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129680860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129683932 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129687063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129690114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129693170 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129696262 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129699330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129702383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129705438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129708518 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129711584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129714660 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129717726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129720788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129723836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129726869 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129729923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129733024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129736062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129739124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129742264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129745317 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129748368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129751421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129754472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129757521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129760620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129763694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129766749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129769804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129772864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129775921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129779016 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129782074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129785135 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129788190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129791247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129794284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129797323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129800411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129803577 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129806648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129809718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129812790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129815862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129818920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129822005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129825071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129828112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129831177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129834226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129837312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129840365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129843468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129846549 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129849603 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129852652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129855708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129858773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129861858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129864896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129867934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129871092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129874143 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129877197 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129880279 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129883370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129886436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129889488 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129892601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129895679 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129898734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129901818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129904881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129907943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129910974 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129914044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129917154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129920230 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129923358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129926451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129929614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129932675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129935742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129938821 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129941923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129945037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129948126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129951253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129954305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129957359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129960427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129963523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129966661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129969796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129972845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129975888 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129978920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129981980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129985021 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129988131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129991208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129994249 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720129997295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130000384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130003467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130006519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130009583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130012617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130015692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130018732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130021783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130024816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130027865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130030921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130034050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130037106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130040147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130043240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130046275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130049310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130052344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130055381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130058441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130061509 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130064542 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130067618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130070658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130073732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130076858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130079928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130082977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130086041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130089084 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130092140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130095205 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130098268 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130101324 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130104401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130107459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130110539 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130113611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130116692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130119729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130122770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130125803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130128844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130131920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130135001 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130138056 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130141091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130144129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+bit-healing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720130147181 tunnel running, 1 tunnels registered
 
 
 TUNNELS
